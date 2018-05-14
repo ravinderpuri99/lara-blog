@@ -1,0 +1,41 @@
+.pagination{
+	float: right !important;
+}
+
+.cover-img{
+	border: 5px solid #fff;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.post-img{
+	margin-bottom: 10px;
+}
+
+.single-post-thumb{
+	width:40% !important;
+	height: 50% !important;
+	padding-bottom: 15px;
+}
+
+.post-status-success{
+	width: 40px;
+    height: 40px;
+    background: #33B86C;
+    color: #fff;
+    padding: 2px 8px;
+}
+
+.post-status-danger{
+	width: 40px;
+    height: 40px;
+    background: #F4645F;
+    color: #fff;
+    padding: 2px 8px;
+}
+
+.navbar-default{
+    background-color: #2DA3E6 !important;
+}
